@@ -13,14 +13,6 @@ h2 {
 }
 
 p {
-  background-color: #38262f;
-  border: 2px solid powderblue;
-  border-style: inset;
-  text-align: center;
-  font-family: system-ui;
-  font-size: larger;
-  margin: 30px;
-  padding: 5px;
   color: rgb(255, 228, 196);
 }
 
