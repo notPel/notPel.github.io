@@ -44,3 +44,15 @@ tr {
   background-color: #38262f;
 }
 
+a:link {
+  color: hotpink;
+}
+a:visited {
+  color: aqua;
+}
+a:hover {
+  color: darkgray;
+}
+a:active {
+  color: darkseagreen;
+}

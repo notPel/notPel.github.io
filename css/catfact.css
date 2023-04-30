@@ -1,0 +1,15 @@
+h1 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+
+p {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.catfact {
+  border: 4px pink dotted;
+  width: 60%;
+  padding: 20px;
+  margin: 0 auto;
+}
