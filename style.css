@@ -1,3 +1,4 @@
+
 body {
   background-color: rgb(22, 38, 58);
 }
@@ -14,6 +15,7 @@ h2 {
 
 p {
   color: rgb(255, 228, 196);
+  line-height: 2;
 }
 
 table {
@@ -41,3 +43,4 @@ td {
 tr {
   background-color: #38262f;
 }
+
